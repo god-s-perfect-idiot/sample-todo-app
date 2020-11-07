@@ -2,4 +2,11 @@
 Requirement met. 
 
 stuff to do:
-Single page frontend needs refreshing. Need to do more research on svelte
+-Single page frontend needs refreshing. Need to do more research on svelte
+
+Backend:
+- expressJS
+- sequelize - postgres
+
+Frontend:
+-svelteJS
